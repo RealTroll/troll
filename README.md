@@ -3,6 +3,7 @@ Welcome to Troll! This little joke program is intended to TROLL people!
 # HOW TO INSTALL:
 
 Just click on "Troll" in the releases section on the right.
+After you installed the .zip file extract it anywhere you can access it easily and enter the password "trolled".
 
 # HOW TO USE:
 
