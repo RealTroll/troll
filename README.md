@@ -1,5 +1,9 @@
 Welcome to Troll! This little joke program is intended to TROLL people! 
 
+# HOW TO INSTALL:
+
+Just click on "Troll" in the releases section on the right.
+
 # HOW TO USE:
 
 Open Troll.exe. If it gives you an error, disable any antivirus softwares. Also if it says its a PUP or any other type of virus it's a false positive.
